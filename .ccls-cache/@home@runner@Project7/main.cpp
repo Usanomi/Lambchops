@@ -3,27 +3,27 @@ Team Members: Steph Borla and Fady Youssef
 Course: CPSC 122
 Date Submitted: 3/20/2024
 Assignment Name: Project 7
-Description: 
+Description:
 */
+
 #include <iostream>
 using namespace std;
 
+
 class Test {
 private:
-int length;
-int width;
+  int length;
+  int width;
+
 public:
-int add()
-{
-  return length + width;
-}
+  Test() {
+    length = 0;
+    width = 0;
+  }
+  int add() { return length + width; }
 };
 
-int Test::push()
-{
-  
-}
-
-int main() {
-  std::cout << "Hello World!\n";
+int main() { 
+  cout << "This is test";
+  cout << "Hello World!\n"; 
 }
