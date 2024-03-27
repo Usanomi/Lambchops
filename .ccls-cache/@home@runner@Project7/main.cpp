@@ -1,6 +1,6 @@
 /*
 Team Members: Steph Borla and Fady Youssef
-Course: CPSC 122
+Course: CPSC 12221
 Date Submitted: 3/20/2024
 Assignment Name: Project 7
 Description:
@@ -27,3 +27,4 @@ int main() {
   cout << "This is test";
   cout << "Hello World!\n"; 
 }
+
