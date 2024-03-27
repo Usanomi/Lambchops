@@ -56,7 +56,7 @@ class ListT
    pre: an instance of ListT exists
    post: node containing itemIn is at the head of the list 
    */
-   void PutItemH(const itemType itemIn);
+   void PutItemH(const itemType itemIn) ;
 
    /*
    pre: an instance of ListT exists and is not empty
