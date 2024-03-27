@@ -1,5 +1,5 @@
 /*
-Team Members: Daisy and Fady Youssef
+Team Members: Steph Borla and Fady Youssef
 Course: CPSC122
 Date Submitted: 3/26/2024
 Assignment Name: Project 8
