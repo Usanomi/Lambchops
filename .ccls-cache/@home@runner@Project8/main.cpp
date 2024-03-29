@@ -23,6 +23,7 @@ ListT::~ListT() {
     current = current->next;
     delete temp; 
   }
+  
   head = NULL;  // Set head to NULL
   tail = NULL;  // Set tail to NULL
   length = 0;
@@ -147,3 +148,6 @@ void ListT::Print() const {
 // write tests for remaining functions
 // setup github student and repos for class
 // make sure to include comments each step
+
+
+//test push
